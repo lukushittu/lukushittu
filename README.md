@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there friends 👋
 
 <!--
 **lukushittu/lukushittu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m Luke
+
+👀 I’m interested in soccer, DevOps/SRE and Azure
+
+🌱 I’m currently learning Cloud Security
+
+👯 I’m looking to collaborate on DevOps projects
+
+📫 How to reach me, lukeshittu@gmail.com
